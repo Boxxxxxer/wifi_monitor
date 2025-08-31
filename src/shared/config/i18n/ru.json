@@ -1,0 +1,10 @@
+{
+  "title_wifi_monitor": "WiFi Монитор",
+  "wifi_disconnected": "Wi-Fi отключен",
+  "wifi_connected": "Wi-Fi подключен",
+  "signal_speed_label": "Сигнал/Скорость",
+  "signal_speed_value_placeholder": "-- Мбит/с / -- дБм",
+  "auto_start_label": "Автозапуск после перезагрузки",
+  "start_monitoring": "Начать мониторинг",
+  "stop_monitoring": "Остановить мониторинг"
+}

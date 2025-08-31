@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Состояние, когда кнопка "включена" (state_checked="true", текст "Stop") -->
+        <item android:state_checked="true" android:drawable="@drawable/button_stop_background" />
+    <!-- Состояние по умолчанию (state_checked="false", текст "Start") -->
+    <item android:drawable="@drawable/gradient_button" />
+</selector>

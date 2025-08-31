@@ -1,0 +1,74 @@
+{
+  "theme": "dark",
+  "palette": {
+    "background": "#121212",
+    "surface": "#1E1E1E",
+    "primary": "#BB86FC",
+    "secondary": "#03DAC6",
+    "onPrimary": "#000000",
+    "onSecondary": "#000000",
+    "text": "#FFFFFF",
+    "textSecondary": "#B3B3B3",
+    "success": "#4CAF50",
+    "error": "#F44336",
+    "accentBlue": "#2962FF"
+  },
+  "typography": {
+    "fontFamily": "Inter, sans-serif",
+    "headline": {
+      "fontSize": "24px",
+      "fontWeight": "bold"
+    },
+    "title": {
+      "fontSize": "20px",
+      "fontWeight": "semi-bold"
+    },
+    "body": {
+      "fontSize": "16px",
+      "fontWeight": "regular"
+    },
+    "caption": {
+      "fontSize": "12px",
+      "fontWeight": "light"
+    }
+  },
+  "layout": {
+    "spacing": "16px",
+    "borderRadius": "12px"
+  },
+  "components": {
+    "button": {
+      "style": "filled",
+      "borderRadius": "8px",
+      "padding": "12px 24px",
+      "textTransform": "uppercase",
+      "letterSpacing": "1.25px"
+    },
+    "card": {
+      "backgroundColor": "#1E1E1E",
+      "borderRadius": "12px",
+      "padding": "16px",
+      "elevation": "4px"
+    },
+    "switch": {
+      "thumbColor": "#BB86FC",
+      "trackColor": "#373737"
+    },
+    "spinner": {
+      "style": "dropdown",
+      "backgroundColor": "#1E1E1E",
+      "textColor": "#FFFFFF",
+      "borderRadius": "8px"
+    }
+  },
+  "animations": {
+    "pageTransition": "fade",
+    "buttonPress": "scale",
+    "statusChange": "pulse"
+  },
+  "vibe": {
+    "mood": "Calm, focused, and futuristic.",
+    "inspiration": "Neon-lit cityscapes, lo-fi music, and minimalist design.",
+    "keywords": ["dark mode", "glassmorphism", "gradients", "subtle animations"]
+  }
+}

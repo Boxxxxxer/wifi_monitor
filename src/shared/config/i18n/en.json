@@ -1,0 +1,10 @@
+{
+  "title_wifi_monitor": "WiFi Monitor",
+  "wifi_disconnected": "Wi-Fi disconnected",
+  "wifi_connected": "Wi-Fi connected",
+  "signal_speed_label": "Signal/Speed",
+  "signal_speed_value_placeholder": "-- Mbps / -- dBm",
+  "auto_start_label": "Auto-start after reboot",
+  "start_monitoring": "Start Monitoring",
+  "stop_monitoring": "Stop Monitoring"
+}
